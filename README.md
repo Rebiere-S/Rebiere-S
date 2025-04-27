@@ -1,4 +1,8 @@
-## Hi there 👋
+Bienvenue sur mon dépot de code Github,
+## *Welcome to my GitHub code repository,*
+
+Bienvenue sur le compte GitHub de Simon Rebière, où vous pourrez retrouver une partie mes projets publiques !
+*Welcome to the GitHub account of Simon Rebière, where you will find some of my publicy shown projects !*
 
 <!--
 **Rebiere-S/Rebiere-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
